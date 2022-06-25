@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,        
+        "title": "flight to Canada",
+        "time": "1pm",
+        "price": 26000,
+        "date" : "26-02-2011"
+    },
+    
+    {
+        "id": 2,        
+        "title": "flight to USA",
+        "time": "3pm",
+        "price": 23000,
+        "date" : "28-02-2011" 
+    },
+    
+    {
+        "id": 3,        
+        "title": "flight to UK",
+        "time": "4pm",
+        "price": 20000,
+        "date" : "29-02-2011" 
+    }
+    ]
+    
